@@ -25,8 +25,8 @@ Steps to start the project-
 	
 	-Similarly now commend all the function calls except **packageChaincode** function and run the script again.
 	
-	-Do he same process for all the functions by running one function at a time in a sequence.
-	
+	-Do the same process for all the functions by running one function at a time in a sequence.
+		--After calling the function **queryInstalled** run the command [ export PACKAGE_ID= '<Package ID that is returned after Installation on chaincode>' ]
 	-now the chain code is installed, approved and Invoked.
 	
 *3. start REST API*
