@@ -1,0 +1,43 @@
+@import "./components/_birthCertificate";
+@import "./components/_birthCertificatePreview";
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f7f7f7;
+}
+
+::-webkit-inner-spin-button{
+    display: none;
+}
+
+.form-control:focus{
+    box-shadow: none;
+}
+
+.form-check-input:focus{
+    box-shadow: none;
+}
+
+.form-check-input[type=radio]{
+    cursor: pointer;
+}
+
+.form-check-input[type=radio] ~ label{
+    cursor: pointer;
+}
+
+button[type="submit"]{
+    background-color: #29367C;
+    border: none;
+    border-radius: 3px;
+    
+    &:hover{
+        background-color: #29367C;
+        opacity: .9;
+    }
+}
