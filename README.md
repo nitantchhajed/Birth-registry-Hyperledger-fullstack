@@ -2,9 +2,9 @@
 App to register the bith data on the HyperLedger Fabric Network using CouchDB to store the data.
 REST APIs to Integrate it to the front-end.
 
-Make sure you have all the necessary Dependencies Installed on your system (Fabric Binaries, docker, node etc.)
+-**Make sure you have all the necessary Dependencies Installed on your system (Fabric Binaries, docker, node etc.)
 
-**Before Starting the project Make sure to Delete the contents of {Crypto & Fabric-client-kv-org1} directory.**
+-**Before Starting the project Make sure to Delete the contents of {Crypto & Fabric-client-kv-org1} directory.**
 
 Steps to start the project-
 
