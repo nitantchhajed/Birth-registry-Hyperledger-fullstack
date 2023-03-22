@@ -48,4 +48,4 @@ Steps to start the project-
 	
 	-to view the database running on the local host navigate to http://localhost:5984/_utils/#/_all_dbs
 	
-	
+*Future Changes - couchDB will be changed with the postgreSQL*
