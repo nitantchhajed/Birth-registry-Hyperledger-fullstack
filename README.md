@@ -4,6 +4,8 @@ REST APIs to Integrate it to the front-end.
 
 Make sure you have all the necessary Dependencies Installed on your system (Fabric Binaries, docker, node etc.)
 
+**Before Starting the project Make sure to Delete the contents of {Crypto & Fabric-client-kv-org1} directory.**
+
 Steps to start the project-
 
 *1. Creating the Channel*
