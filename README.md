@@ -19,6 +19,7 @@ Steps to start the project-
 	-Then do the docker up [./docker-up.sh]
 	
 	-Create the channel [./createChannel.sh]
+		*--if it gives error "Peer not found" close the current terminal open a new terminal*
 
 *2. Deploying the Chaincode*
 
