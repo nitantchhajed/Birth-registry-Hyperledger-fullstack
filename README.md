@@ -19,19 +19,19 @@ Steps to start the project-
 	-Then do the docker up [./docker-up.sh]
 	
 	-Create the channel [./createChannel.sh]
-		*--if it gives error "Peer not found" close the current terminal open a new terminal*
+		**--if it gives error "Peer not found" close the current terminal open a new terminal**
 
 *2. Deploying the Chaincode*
 
 	-open the **deployChaincode.sh** file and scroll to the bottom where functions are called
 	
 	-commend all the fuction calls except **presetup** fuction and run the script [./deployChaincode.sh]
-		--This install dependencies, if there is an error in installation, then go to chaincode folder and install dependencies directly from there
+		**--This install dependencies, if there is an error in installation, then go to chaincode folder and install dependencies directly from there**
 	
 	-Similarly now commend all the function calls except **packageChaincode** function and run the script again.
 	
 	-Do the same process for all the functions by running one function at a time in a sequence.
-		--After calling the function **queryInstalled** run the command [ export PACKAGE_ID= '<Package ID that is returned after Installation on chaincode>' ]
+		**--After calling the function **queryInstalled** run the command [ export PACKAGE_ID= '<Package ID that is returned after Installation on chaincode>' ]**
 	
 	-Run remaining functions. 
 	
