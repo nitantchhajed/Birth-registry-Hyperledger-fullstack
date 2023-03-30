@@ -1,4 +1,7 @@
 ## Birth-Registery App 1 Org and Frontend
+
+***IF YOU HAVE ANY QUESTIONS OR PROBLEMS, FEEL FREE TO RAISE A ISSUE.***
+
 App to register the bith data on the HyperLedger Fabric Network using CouchDB to store the data.
 REST APIs to Integrate it to the front-end.
 
@@ -52,3 +55,5 @@ Steps to start the project-
 	-to view the database running on the local host navigate to http://localhost:5984/_utils/#/_all_dbs
 	
 *Future Changes - couchDB will be changed with the postgreSQL*
+
+***IF YOU HAVE ANY QUESTIONS OR PROBLEMS, FEEL FREE TO RAISE A ISSUE.***
